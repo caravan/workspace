@@ -1,0 +1,12 @@
+go 1.20
+
+use (
+	./db
+	./essentials
+	./go-immutable-radix
+	./go-immutable-trie
+	./kombi
+	./queries
+	./streaming
+	./troupe
+)
