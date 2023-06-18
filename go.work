@@ -3,7 +3,6 @@ go 1.20
 use (
 	./db
 	./essentials
-	./kombi
 	./streaming
 	./troupe
 )
